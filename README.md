@@ -1,5 +1,11 @@
 # adv-algorithms-CS752
 
+## Installation
+
+`git clone https://github.com/eesaanatluri/adv-algorithms-CS752.git`
+
+`cd assignment-2`
+
 ## Usage
 
 `python3 fibonacci.py -n 40000000000`
